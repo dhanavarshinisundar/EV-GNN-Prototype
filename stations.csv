@@ -1,0 +1,7 @@
+station_id,name,provider,fast,availability,distance_km
+S1,Central Mall,Tata Power,1,0.95,1.2
+S2,Airport Road,HPCL,1,0.82,2.4
+S3,City Center,Tata Power,1,0.91,1.8
+S4,Highway Hub,ChargeZone,1,0.67,3.1
+S5,Railway Station,HPCL,0,0.88,2.7
+S6,Tech Park,Tata Power,1,0.76,4.0
