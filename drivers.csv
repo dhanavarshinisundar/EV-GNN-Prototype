@@ -1,0 +1,9 @@
+driver_id,context,charging_preference,preferred_cluster
+D41,Home,FAST,A
+D42,Workplace,SLOW,A
+D43,Home,FAST,B
+D44,Workplace,FAST,C
+D45,Shopping,FAST,B
+D46,Workplace,SLOW,C
+D47,Home,SLOW,D
+D48,Shopping,FAST,A

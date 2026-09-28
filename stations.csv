@@ -1,7 +1,13 @@
-station_id,name,provider,fast,availability,distance_km
-S1,Central Mall,Tata Power,1,0.95,1.2
-S2,Airport Road,HPCL,1,0.82,2.4
-S3,City Center,Tata Power,1,0.91,1.8
-S4,Highway Hub,ChargeZone,1,0.67,3.1
-S5,Railway Station,HPCL,0,0.88,2.7
-S6,Tech Park,Tata Power,1,0.76,4.0
+station_id,station_name,city,charging_type,cluster,latitude,longitude,provider
+S1,Tiruchirappalli Central,Trichy,FAST,A,10.7905,78.7047,Tata Power
+S2,Woraiyur Charge Hub,Trichy,SLOW,A,10.823,78.685,Ather
+S3,Cantonment Fast Charge,Trichy,FAST,A,10.805,78.6855,Tata Power
+S4,Srirangam EV Point,Trichy,FAST,B,10.862,78.689,ChargeZone
+S5,Airport Road EV,Trichy,FAST,B,10.765,78.709,Ather
+S6,Thillai Nagar Charge,Trichy,SLOW,A,10.8135,78.684,Zeon
+S7,KK Nagar EV Hub,Trichy,FAST,C,10.793,78.676,ChargeZone
+S8,BHEL Road Fast Charge,Trichy,FAST,C,10.759,78.685,Tata Power
+S9,Samayapuram EV Point,Trichy,SLOW,D,10.914,78.734,Zeon
+S10,Manapparai EV Hub,Trichy,FAST,E,10.56,78.425,Ather
+S11,Golden Rock EV,Trichy,SLOW,B,10.779,78.716,Zeon
+S12,Industrial Estate Charge,Trichy,FAST,C,10.776,78.675,Tata Power
